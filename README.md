@@ -1,5 +1,5 @@
 # online_exam
-Everyone can give exam 
-IT is made by asp.net with c# and it is website of online-exam 
-anyone can give exam 
+Everyone can give exam it is a website name-online exam 
+and
+it is made by asp.net with c# 
 thank you
